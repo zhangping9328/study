@@ -1,3 +1,4 @@
 tags = ["a","b","c"]
-for temp in tags:
-    print(temp)
+# for temp in tags:
+#     print(temp)
+print(tags[0])

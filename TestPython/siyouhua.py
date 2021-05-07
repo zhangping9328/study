@@ -4,6 +4,7 @@ class Test(object):
   #      self.num = 100
     def setNum(self,Num):
         self.__num = Num
+        return self.__num
     def getNum(self):
         return self.__num
 
